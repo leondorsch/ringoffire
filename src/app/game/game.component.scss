@@ -117,3 +117,11 @@ app-player, app-player-mobile {
         width: 300px;
     }
 }
+
+.preloadImage{
+    opacity: 0;
+    z-index: -999999;
+    width: 0px;
+    height: 0px;
+    margin: 0;
+}
